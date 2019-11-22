@@ -1,0 +1,29 @@
+body {
+	background-color: #666699;
+}
+
+h2 {
+  color: #AAA;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+table {
+	height: 600px;
+	position: relative;
+	left: 470px;
+	text-align: center;
+	width: 500px;
+	border: 10px white solid;
+}
+
+td{
+	width: 250px;
+	height: 600px;
+	border: 10px white solid;
+}
